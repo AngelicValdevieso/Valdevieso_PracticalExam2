@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <CheckBox
-        android:id="@+id/checkBox2"
+        android:id="@+id/S1"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginBottom="468dp"
@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
+        android:id="@+id/S2"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginBottom="432dp"
@@ -29,7 +29,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <CheckBox
-        android:id="@+id/checkBox4"
+        android:id="@+id/S3"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginBottom="396dp"
@@ -40,7 +40,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <CheckBox
-        android:id="@+id/checkBox5"
+        android:id="@+id/S4"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginBottom="360dp"
@@ -51,7 +51,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <CheckBox
-        android:id="@+id/checkBox6"
+        android:id="@+id/S5"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginTop="1dp"
@@ -64,7 +64,7 @@
         app:layout_constraintTop_toBottomOf="@+id/checkBox5" />
 
     <CheckBox
-        android:id="@+id/checkBox7"
+        android:id="@+id/S6"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginTop="1dp"
@@ -77,7 +77,7 @@
         app:layout_constraintTop_toBottomOf="@+id/checkBox6" />
 
     <CheckBox
-        android:id="@+id/checkBox8"
+        android:id="@+id/S7"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginTop="1dp"
@@ -90,7 +90,7 @@
         app:layout_constraintTop_toBottomOf="@+id/checkBox7" />
 
     <CheckBox
-        android:id="@+id/checkBox1"
+        android:id="@+id/S8"
         android:layout_width="313dp"
         android:layout_height="35dp"
         android:layout_marginBottom="504dp"
@@ -138,7 +138,7 @@
         app:layout_constraintTop_toBottomOf="@+id/checkBox8" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/comment"
         android:layout_width="305dp"
         android:layout_height="104dp"
         android:layout_marginStart="49dp"
